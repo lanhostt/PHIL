@@ -6,4 +6,4 @@
 
 This idea is central to the project.
 
-Imagine: the code writes the developer, not the other way around.
+Imagine: The code shapes the developer, rather than the developer shaping the code.
